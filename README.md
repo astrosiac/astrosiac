@@ -1,16 +1,21 @@
 ### Hi there 👋
 
 <!--
-**astrosiac/astrosiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Savoy Rath!
 
-Here are some ideas to get you started:
+🚀 Full Stack Developer | JavaScript Enthusiast | Continuous Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Passionate about building innovative web applications and solving complex problems. 
+
+🎯 Skilled in JavaScript, Node.js, and React.js, with experience in Agile methodologies and delivering value in dynamic environments.
+
+🌱 Currently expanding my skill set by diving into TypeScript and exploring Python and Java.
+
+👨‍💻 Open to collaborating on exciting projects and contributing to the developer community.
+
+📫 Reach me at [[My email]](savoyrath@gmail.com) or connect with me on [[LinkedIn Profile URL]](https://www.linkedin.com/in/savoy-rath/).
+
+🌐 Check out my portfolio and explore my projects on [[GitHub Profile URL]](https://github.com/astrosiac).
+
+Let's create something amazing together! 😄
 -->
