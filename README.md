@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 👋 Hello, I'm Savoy Rath!
 
 🚀 Full Stack Developer | JavaScript Enthusiast | Continuous Learner
@@ -18,4 +16,3 @@
 🌐 Check out my portfolio and explore my projects on [[GitHub Profile URL]](https://github.com/astrosiac).
 
 Let's create something amazing together! 😄
--->
